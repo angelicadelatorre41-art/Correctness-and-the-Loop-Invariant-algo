@@ -1,1 +1,1 @@
-# Correctness-and-the-Loop-Invariant-algo
+# Correctness-and-the-Loop-Invariant-algo This code sorts an array using insertion sort, comparing each element with those before it and placing it in the correct position. It repeatedly shifts larger elements rightward until the correct spot for the current value is found.
